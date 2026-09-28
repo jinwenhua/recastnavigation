@@ -56,6 +56,8 @@ Docs/html
 
 ## CMake build cache
 build
+recastjs/build
+recastjs/emsdk
 
 ## IDE files
 .idea/
